@@ -5,20 +5,20 @@ const greeting = "Hellooo world Nice to Meet You! 😃"
 ![Coding-Life](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 
 ### Skills🌱: 
-HTML5, CSS3, Bootstrap, SCSS, styled-components, JavaScript (ES6+), Semantic-UI, React, Gatsby, Node.js, Express.js
+Blokchain, Hyperledger Fabric, Ethereum, JavaScript (ES6+), Semantic-UI, React, Gatsby, Node.js, Express.js
 
 
 ### Fun Fact⚡:
-I love cruising on the street with my pugboat landyachtz & play the ukulele
+I love cruising on the street and on the country roads.
 
 <br/>
 
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=LanguageXange&show_icons=true&theme=dracula)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=saurabhsingh121&show_icons=true&theme=dracula)
 
 <br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanguageXange&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsingh121&layout=compact)
 
 
 ### Check out the link below to create your stats!
@@ -28,7 +28,7 @@ I love cruising on the street with my pugboat landyachtz & play the ukulele
 
 
 <!--
-**LanguageXange/LanguageXange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**saurabhsingh121/saurabhsingh121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
